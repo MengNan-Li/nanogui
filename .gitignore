@@ -23,7 +23,6 @@ example_icons.bc
 example_icons.js
 example_icons.wasm
 example_icons.exe
-icons
 *~
 nanogui*.so
 nanogui*.pyd
