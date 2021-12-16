@@ -42,7 +42,7 @@ docs/api
 # this is it's own repo: https://github.com/svenevs/nanogui-entypo
 # should not ever be needed again unless there are new
 # icons added :)
-resources/nanogui-entypo
+#resources/nanogui-entypo
 
 compile_commands.json
 .clangd
